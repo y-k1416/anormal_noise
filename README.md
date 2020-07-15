@@ -6,7 +6,7 @@
 data/record.py
 
 音声解析については、ログメルスペクトラムによる変換：
-
+data_gen.py
 
 学習モデルはオートエンコーダを利用：
 train1.py
