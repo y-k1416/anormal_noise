@@ -65,8 +65,6 @@ if __name__ == '__main__':
     # initialize visual
     visualizer = visualizer()
 
-    # # load directory list
-    # dirs = data_gen.select_dir()
 
     # model_save
     model_file_path = "model/model_{name}.hdf5".format(name='norm')
