@@ -71,7 +71,7 @@ def test_file(target_dir,
 if __name__ == '__main__':
 
     os.makedirs(param["result_directory"], exist_ok=True)
-    dirs = 
+     
 
     csv_lines = []
 
